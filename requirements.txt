@@ -1,0 +1,7 @@
+transformers
+bert-extractive-summarizer
+spacy
+torch
+sentencepiece
+streamlit
+
